@@ -11,10 +11,9 @@ Welcome! This repository documents my  journey to transition into a Responsible 
 🗂️ How This Repo Is Organized
 
 - `/projects/` — Main hands-on projects, notebooks, and code
-- `/open-source/` — Contributions and pull requests to RAI repos
 - `/docs/` — Learning notes, model cards, regulatory summaries
 - `/blog/` — Articles and presentations
-- `/roadmap.md` — Detailed week-by-week plan with resources
+
 
 🤝 Connect
 
